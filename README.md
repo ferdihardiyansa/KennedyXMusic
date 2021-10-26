@@ -1,4 +1,4 @@
-<p align="center"><a href="https://t.me/emikosupport"><img src="https://telegra.ph/file/2b6036786291fdc0f884f.png" width="340"></a></p>
+<p align="center"><a href="https://t.me/emikosupport"><img src="ignity music bot" width="340"></a></p>
 
 <p align="center"><b> KennedyXMusic is a Music bot for playing music on telegram voice chat group with extra features </b></p>
 
