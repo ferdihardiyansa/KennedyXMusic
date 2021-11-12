@@ -62,11 +62,11 @@ async def cbstart(_, query: CallbackQuery):
 💡 Find out all the **Bot's commands** and how they work by clicking on the **» 📚 Commands** button!""",
         reply_markup=InlineKeyboardMarkup(
             [ 
-                [
-                    InlineKeyboardButton(
-                        "➕ Add me to your group ➕", url=f"https://t.me/{BOT_USERNAME}?startgroup=true")
+                
+                    Tombol Keyboard Sebaris (
+                        "➕ masukin ", url=f"https://t.me/{BOT_USERNAME}?startgroup=true")
                 ],[
-                    InlineKeyboardButton(
+                    Tombol Keyboard Sebaris (
                         "📚 Command​​", callback_data="cbhelp"
                     ),
                     InlineKeyboardButton(
@@ -247,7 +247,7 @@ async def cbowner(_, query: CallbackQuery):
         ),
     )
 
-
+kami
 @Client.on_callback_query(filters.regex("cbsudo"))
 async def cbsudo(_, query: CallbackQuery):
     await query.edit_message_text(
